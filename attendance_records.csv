@@ -1,0 +1,20 @@
+Record ID,Player ID,Session ID,Attendance Status
+1,1,1,Present
+2,2,1,Absent
+3,3,2,Late
+4,4,3,Present
+5,5,3,Absent
+6,6,4,Present
+7,7,4,Late
+8,8,5,Present
+9,9,5,Absent
+10,10,6,Present
+11,1,6,Absent
+12,2,7,Late
+13,3,7,Present
+14,4,8,Present
+15,5,8,Absent
+16,6,9,Late
+17,7,9,Present
+18,8,10,Absent
+19,9,10,Present
